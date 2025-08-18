@@ -1,0 +1,14 @@
+fancy_einsum==0.0.3
+ipython==8.12.3
+matplotlib==3.10.5
+numpy==2.3.2
+opencv_python==4.11.0.86
+pandas==2.3.1
+Pillow==11.3.0
+plotly==5.19.0
+scikit_learn==1.7.1
+seaborn==0.13.2
+torch==2.6.0+cu118
+torchvision==0.21.0
+tqdm==4.67.1
+transformers==4.50.0
