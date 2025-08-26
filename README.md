@@ -6,6 +6,8 @@ The python notebooks in order will take you through steps for the CLIP MLP Neuro
 
 `data_gen.py` is the script used to create the toy shapes dataset in `generated_images`.
 
+The dataset is also available on Huggingface [here](https://huggingface.co/datasets/ashwath-vaithina/toy-shapes-dataset).
+
 **To setup the environment:**
 1. Install packages listed in `requirements.txt`: `pip install -r requirements.txt`
 2. Install [ViT-Prisma](https://github.com/Prisma-Multimodal/ViT-Prisma).
